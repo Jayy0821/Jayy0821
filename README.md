@@ -1,19 +1,15 @@
-# 👋 Salut, moi c'est Jayson PHAN NGUYEN
+# 👋 Salut,
 
-### 📈ex Ingénieur Financier & Data Scientist
+### ex Ingénieur Financier & Data Scientist
 *Actuellement en Msc Data Science/ Analytics à la Sorbonne Paris 1
 
 
-## 🚀 À propos de moi
+##  À propos de moi
 Avec une solide expérience chez **Crédit Agricole Assurances** et **KPMG**, j'ai choisi de pivoter vers la Data Science pour transformer l'ingénierie financière. Je combine une maîtrise des produits structurés et de l'ESG avec des compétences avancées en **Python**, **Big Data** et **IA**.
-
-- 🎯 **Objectif :** Développer des solutions intelligentes pour la gestion d'actifs et l'analyse de risques.
-- 💼 **Background :** Master 2 Finance de Marché (ESLSCA) + Master Data Science (Sorbonne).
-- 🛠️ **Spécialité :** Digitalisation de processus (gain de 50% d'efficacité via Python/VBA).
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 | Catégorie | Outils |
 | :--- | :--- |
 | **Data Science** | Python (Pandas, NumPy, Scikit-Learn, PyTorch) |
