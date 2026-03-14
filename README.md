@@ -1,4 +1,4 @@
-# 👋 Salut,
+# Salut,
 
 ### ex Ingénieur Financier & Data Scientist
 *Actuellement en Msc Data Science/ Analytics à la Sorbonne Paris 1
